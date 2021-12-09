@@ -1,0 +1,3 @@
+[submodule "project3-gameNFT"]
+	path = project3-gameNFT
+	url = git@github.com:vugomars/crypto-kittites.git
